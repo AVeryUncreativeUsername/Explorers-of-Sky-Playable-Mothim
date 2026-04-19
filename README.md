@@ -2,9 +2,13 @@
 Makes Mothim a playable character. 
 
 Sprites from pmdcollab: https://sprites.pmdcollab.org/#/0414
+
 CHUNSOFT - https://www.spike-chunsoft.com/
+
 Lovi - <@95650095034273792>
+
 FlowerSnek - https://twitter.com/EthanLac13
+
 Audino - https://github.com/audinowho
 
 Patch made with SkyTemple:

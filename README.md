@@ -1,5 +1,5 @@
 # Explorers-of-Sky-Playable-Mothim
-Makes Mothim a playable character. 
+Makes Mothim a playable character in Pokemon Mystery Dungeon Explorers of Sky. Patch onto a clean US ROM. 
 
 Sprites from pmdcollab: https://sprites.pmdcollab.org/#/0414
 
